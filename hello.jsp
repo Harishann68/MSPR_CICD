@@ -8,7 +8,7 @@
 <caption>Table Caption</caption>
 <tr>
 <th> MONTH </th>
-<td align=center>
+<td =center>
 <img src="images/tomcat.gif" alt = "tomcat">
 </td>
 <td>
