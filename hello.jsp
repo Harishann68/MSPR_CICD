@@ -5,6 +5,7 @@
 <body bgcolor=white>
 
 <table border="0">
+<caption>Table Caption</caption>
 <tr>
 <th> MONTH </th>
 <td align=center>
